@@ -28,3 +28,4 @@ This project contains both the frontend (React + Vite) and the backend (Spring B
 ```bash
 npm install
 npm run dev
+# 3-tier-architecture
