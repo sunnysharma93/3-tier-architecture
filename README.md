@@ -29,3 +29,7 @@ This project contains both the frontend (React + Vite) and the backend (Spring B
 npm install
 npm run dev
 # 3-tier-architecture
+
+Run Project with Docker Compose
+
+docker-compose up -d
